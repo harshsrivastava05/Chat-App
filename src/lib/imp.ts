@@ -1,0 +1,4 @@
+export const db ={
+  UPSTASH_REDIS_REST_URL: "https://apn1-flexible-guppy-34797.upstash.io",
+  UPSTASH_REDIS_REST_TOKEN: "AYftASQgODA3OTBjOWYtMmM3ZC00OTk4LTlkMzUtNjE3MTYzZGJiYjNhNGY0NjE4ZGJhNThlNGNjNzhhYTE4ZjQ5Y2EwZjZkN2U="
+}
